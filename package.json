@@ -1,0 +1,22 @@
+{
+  "name": "2018-1-foodmap",
+  "version": "0.0.1",
+  "description": "Aplicación para encontrar restaurantes cercanos en el mapa",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "foodmap, comida, restaurant"
+  },
+  "keywords": [
+    "\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Cfoodmap",
+    "comida",
+    "mapa",
+    "cercano",
+    "restaurant"
+  ],
+  "author": "Bárbara Cáceres Sepúlveda",
+  "license": "ISC"
+}
