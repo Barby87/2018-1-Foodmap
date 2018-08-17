@@ -18,5 +18,11 @@
     "restaurant"
   ],
   "author": "Bárbara Cáceres Sepúlveda",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "dependencies": {
+    "chai": "^4.1.2"
+  }
 }
