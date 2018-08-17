@@ -1,0 +1,50 @@
+/*Displays*/
+#preload {
+  display: block;
+  margin-top: 100px;
+  color: #F07A1C;
+}
+
+#home {
+  display: none;
+}
+
+/*Estilos*/
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+h1 {
+  color: #F07A1C;
+  margin-top: 20px;
+  text-shadow: 2px 2px 2px rgb(100, 98, 98);
+}
+
+#gifLoading {
+  margin: 40px;
+}
+
+#logo {
+  margin-top: 50px;
+}
+
+label {
+  color: gray;
+} 
+
+#options, #autocomplete {
+  margin: 20px;
+}
+
+#mapContainer {
+  height: 50vh;
+  width: 100%;
+  margin: 20px;
+}
