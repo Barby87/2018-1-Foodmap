@@ -9,6 +9,11 @@
   display: none;
 }
 
+/*#mapContainer {
+  display: none;
+}*/
+
+
 /*Estilos*/
 html {
   height: 100%;
@@ -43,8 +48,8 @@ label {
   margin: 20px;
 }
 
-#mapContainer {
+.map {
   height: 50vh;
-  width: 100%;
-  margin: 20px;
+  width: 100vw;
+  position: relative;
 }
